@@ -19,6 +19,9 @@ Throughout my career, I have had the privilege of collaborating with cross-funct
 - Expertise in integrating third-party APIs and services.
 - Successful deployment of apps to the App Store, including managing the submission and review process.
 
+
+<h2 align="left" style="border-bottom: 1px solid #333;"></h2>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-ios&theme=dark)](https://github.com/ankit-ios/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/ankit-ios)
