@@ -1,13 +1,22 @@
-<h1>Hey, I'm <a href="https://github.com/ankit-ios">Ankit Sharma</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hey, I'm <a href="https://github.com/ankit-ios">Ankit Sharma</a> 👋</h1>
 
-[![linkedin badge](https://img.shields.io/badge/ankit-sharma-41753951?style=flat\&logo=linkedin)](https://www.linkedin.com/in/ankithsharma/)
-[![Gmail Badge](https://img.shields.io/badge/ankitsoftengi@gmail.com-30302f?style=flat\&logo=Gmail\&logoColor=red)](mailto:ankitsoftengi@gmail.com) <img src="https://komarev.com/ghpvc/?username=ankit-ios&style=plastic" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Building%20Products%20%7C%20AI%20%7C%20Full-Stack&fontSize=30&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankithsharma/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Sharma-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:ankitsoftengi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ankitsoftengi%40gmail.com-red?style=flat&logo=gmail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ankit-ios&style=flat" />
+</p>
 
 ---
 
 <h2 align="left">Introduction</h2>
-
-<img align="right" src="https://github.com/ankit-ios.png" width="220" style="border-radius: 12px;" />
 
 I am a **Senior Software Engineer with 10+ years of experience**, specializing in **native iOS development** and evolving into a **full-stack, product-focused engineer**.
 
@@ -23,11 +32,11 @@ I actively apply **Specification-Driven Development (SDD)** and have hands-on ex
 
 <h3 align="left">Most Used Languages & Technologies</h3>
 
-- **Swift / SwiftUI / Objective-C** (Primary – Native iOS)
-- **TypeScript / JavaScript** (React, React Native, Full-stack)
-- **Dart (Flutter)**
-- **Specification-Driven Development (SDD) & Clean Architecture**
-- **AI Integrations (LLMs, automation workflows, tooling)**
+* **Swift / SwiftUI / Objective-C** (Primary – Native iOS)
+* **TypeScript / JavaScript** (React, React Native, Full-stack)
+* **Dart (Flutter)**
+* **Specification-Driven Development (SDD) & Clean Architecture**
+* **AI Integrations (LLMs, automation workflows, tooling)**
 
 ---
 
@@ -50,3 +59,7 @@ I actively apply **Specification-Driven Development (SDD)** and have hands-on ex
 * Designing scalable, maintainable product systems
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20Products%20%7C%20AI%20Explorer%20%7C%20Full-Stack%20Journey&center=true&width=800&height=50&color=00C2FF&vCenter=true" />
+</p>
